@@ -1,2 +1,2 @@
-FROM 2018HW86372/webapp
+FROM wims/webapp
 ADD . /var/www/html
